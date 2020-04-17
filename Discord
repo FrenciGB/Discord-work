@@ -1,1 +1,5 @@
-{"message": "Test", "code": 50006}
+POST test
+{
+ "Key1": "Value1" , 
+ "Key2": "Value2" 
+ }
