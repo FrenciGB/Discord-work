@@ -1,5 +1,11 @@
-POST test
-{
- "Key1": "Value1" , 
- "Key2": "Value2" 
- }
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Webhook Tutorial</title>
+  </head>
+  <body>
+    <button onclick="sendMessage(Hi)">Send</button>
+  </body>
+</html>
